@@ -1,4 +1,5 @@
 # Personality-Based-Testing
+<h6>The test is based on parameters given in the book- "How Intelligent are you?" by Victor Serebriakoff</h6>
 This program is an application where you can take two tests to know your degree of introversion/extroversion and emotional stability. It has the following features: 
 1) Welcome screen using graphics 
 2) User Login and signup using password protection, classes and binary files. 
